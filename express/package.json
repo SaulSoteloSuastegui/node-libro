@@ -1,5 +1,5 @@
 {
-  "name": "libros",
+  "name": "express",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "morgan": "^1.10.0",
-    "mysql": "^2.18.1"
-  },
-  "devDependencies": {
     "nodemon": "^3.1.10"
   }
 }
